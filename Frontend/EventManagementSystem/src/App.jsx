@@ -1,6 +1,5 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import FrontScreen from "./components/FrontScreen/FrontScreenTemp";
-// import EventDashboard from "./pages/EventPage";
 import EventDashboard from "./pages/EventDashboard";
 import RegisterPage from "./pages/RegisterPage";
 import EventCreation from "./pages/EventCreation";
